@@ -1,4 +1,4 @@
-## 本项目构建了一个用于 信贷违约预测（Credit Default Prediction） 的机器学习系统，结合：
+本项目构建了一个用于 信贷违约预测（Credit Default Prediction） 的机器学习系统，结合：
 >>LightGBM（树模型）
 >>DAE-ResNet 神经网络（深度结构化数据模型）
 >>SAINT Transformer（Self-Supervised Tabular Transformer）
